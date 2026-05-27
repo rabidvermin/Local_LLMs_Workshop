@@ -82,6 +82,8 @@ ollama pull dolphin-mixtral        # ~26GB - Uncensored
 ollama pull deepseek-r1            # ~37GB - Security reasoning
 ```
 
+[ollama library](https://ollama.com/library)
+
 ### Hardware Requirements
 - **Minimum:** 16GB RAM, 8GB VRAM (for 8B models)
 - **Recommended:** 32GB RAM, 24GB VRAM (for 34B models)
